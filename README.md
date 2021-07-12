@@ -50,6 +50,9 @@ policy analysis.
 
 ## Repository contents
 
+The clean dataset described before is located at
+`Out/IMF_FiscalResponseData.*`.
+
 -   `Data`: Contains all raw data files used by the scripts contained in
     the repo.
 
@@ -77,7 +80,7 @@ policy analysis.
     -   `Out/IMF_FiscalResponseData.*`: clean, open format, and fully
         machine-readable version of the IMF’s database summarizing key
         fiscal measures governments have announced or taken in selected
-        economies in response to the COVID-19 pandemic as of March
-        17, 2021. The dataset is available in both CSV and Rds formats.
+        economies in response to the COVID-19 pandemic. The dataset is
+        available in both CSV and RDS formats.
 
 -   `R`: Contains all R scripts.
