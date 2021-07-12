@@ -1,3 +1,9 @@
+# Header =======================================================================
+# Author: Pablo Reyes Moctezuma (https://github.com/pablorm296/)
+# Description: This script takes the raw data files from the repo's `Data`
+# directory to create a clean, open format, and fully machine-readable version 
+# of the IMF’s database summarizing key fiscal measures governments have announced 
+# or taken in selected economies in response to the COVID-19 pandemic.
 # Set up =======================================================================
 # Load packages
 library(tidyverse)
