@@ -35,6 +35,8 @@ Anyway, be careful and always provide some context to your compared policy analy
 
 ## Repository contents
 
+The clean dataset described before is located at `Out/IMF_FiscalResponseData.*`.
+
 -   `Data`: Contains all raw data files used by the scripts contained in the repo.
 
     -   `Data/CLASS.xls`: [*Country and Lending Groups*](https://datahelpdesk.worldbank.org/knowledgebase/articles/906519-world-bank-country-and-lending-groups)(World Bank)*.*
